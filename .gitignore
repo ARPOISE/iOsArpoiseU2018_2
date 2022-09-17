@@ -1,0 +1,17 @@
+
+Library
+Logs
+user.keystore
+CVS
+*/CVS
+*/*/CVS
+CVS
+Packages
+Vuforia
+
+Assembly-CSharp.csproj
+.vsconfig
+.cvsignore
+*.meta
+
+
