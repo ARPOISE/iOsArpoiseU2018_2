@@ -157,7 +157,7 @@ PlayerSettings:
     Android: com.tamikothiel.UnexpectedGrowthAndroid
     iOS: com.arpoise.ARpoise
   buildNumber:
-    iOS: 20220917
+    iOS: 20230125
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
